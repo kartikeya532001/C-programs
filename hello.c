@@ -2,5 +2,6 @@
 #include<conio.h>
 void main()
 {
+	cout<<10+2;
 	cout<<"hello world";
 }
