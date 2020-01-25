@@ -4,10 +4,10 @@ void main()
 {
 	cout<<10+2;
 	cout<<"hello world";
+<<<<<<< HEAD
 
-
-       cout<<"implementing diff";
-
+cout<<"hi";
+=======
 	cout<<"testing branch";
-
+>>>>>>> test
 }
